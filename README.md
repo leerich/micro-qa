@@ -5,6 +5,9 @@ Self Contained Automated Test Environment
 
 ## Setting up with Virtual Box
 1.  Download and install [VirtualBox](https://www.virtualbox.org)
+2.  Install dkms package
+3.  Install Development Tools group
+4.  Install Chefdk package
 
 2.  Download and install [Vagrant >= 1.6.3](http://www.vagrantup.com/)
 
