@@ -27,6 +27,7 @@ Self Contained Automated Test Environment
 
 ## Setting up with AWS or Eucalyptus
 1.  Download and install [Vagrant >= 1.6.3](http://www.vagrantup.com/)
+2.  Install Development Tools - yum groupinstall "Development Tools"
 
 2. Install the Vagrant plugins:
    ```
