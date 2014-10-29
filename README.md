@@ -28,7 +28,9 @@ Self Contained Automated Test Environment
 ## Setting up with AWS or Eucalyptus
 1.  Download and install [Vagrant >= 1.6.3](http://www.vagrantup.com/)
 2.  Install Development Tools - yum groupinstall "Development Tools"
-
+3.  Install rubygems package
+4.  Install ChefDK
+5.  
 2. Install the Vagrant plugins:
    ```
 	      vagrant plugin install vagrant-aws
